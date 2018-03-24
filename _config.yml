@@ -23,6 +23,8 @@ social:
 # -----
 # Build
 
+excerpt_separator: <!--more-->
+
 timezone: Etc/UTC
 
 paginate: 10
