@@ -54,3 +54,18 @@ a {
 	text-decoration: none;
 	color: #007eff;
 }
+
+blockquote {
+	display: block;
+	background: #fff;
+	padding: 15px 20px 15px 45px;
+	margin: 0 0 20px;
+	position: relative;
+	
+	border-left: 15px solid #c76c0c;
+	border-right: 2px solid #c76c0c;
+	
+	-moz-box-shadow: 2px 2px 15px #ccc;
+	-webkit-box-shadow: 2px 2px 15px #ccc;
+	box-shadow: 2px 2px 15px #ccc;
+}
