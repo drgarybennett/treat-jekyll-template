@@ -1,6 +1,6 @@
 ---
 id: 1479
-title: 'Brands matter a lot [in science] #designmatters'
+title: 'Brands matter a lot [in science]'
 date: 2017-10-26T09:44:18+00:00
 author: ggbjr
 layout: post
