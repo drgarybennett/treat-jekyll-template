@@ -4,8 +4,6 @@ title: 'Brands matter a lot [in science]'
 date: 2017-10-26T09:44:18+00:00
 author: ggbjr
 layout: post
-guid: http://drgarybennett.com/?p=1479
-permalink: /2017/10/26/brands-matter-a-lot-in-science-designmatters/
 categories:
   - designmatters
 ---
