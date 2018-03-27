@@ -2,7 +2,6 @@
 title: Contact
 ---
 <h1>Contact</h1>
-<p class="editable">Get in touch with any feedback or questions about the recipes featured here.</p>
 
 <form method="post" action="{{ site.baseurl }}/contact-success/">
 		<input type="hidden" name="_to" value="{{ site.data.email }}" />
@@ -28,9 +27,10 @@ title: Contact
 		<div class="split">
 			<label for="subject">Subject</label>
 			<select id="subject" name="subject">
-				<option value="enquiry">Enquiry</option>
+				<option value="enquiry">Inquiry</option>
 				<option value="suggestion">Suggestion</option>
 				<option value="press">Press</option>
+				<option value="talk">Talk Request</option>
 				<option value="other">Other</option>
 			</select>
 		</div>
