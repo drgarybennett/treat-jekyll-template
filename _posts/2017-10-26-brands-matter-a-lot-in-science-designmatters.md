@@ -7,7 +7,7 @@ layout: post
 categories:
   - designmatters
 ---
-[<img src="http://drgarybennett.com/wp-content/uploads/2017/10/Daniel-Kahneman-009-1024x614.jpg" alt="" width="1024" height="614" class="aligncenter size-large wp-image-1482" srcset="http://drgarybennett.com/wp-content/uploads/2017/10/Daniel-Kahneman-009-1024x614.jpg 1024w, http://drgarybennett.com/wp-content/uploads/2017/10/Daniel-Kahneman-009-300x180.jpg 300w, http://drgarybennett.com/wp-content/uploads/2017/10/Daniel-Kahneman-009-768x461.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://drgarybennett.com/wp-content/uploads/2017/10/Daniel-Kahneman-009.jpg)
+![ ](http://images.huffingtonpost.com/2015-04-09-1428607041-7664377-kahneman.jpg)
 
 From [Daniel Kahneman](https://www.princeton.edu/~kahneman/), winner of the 2002 Nobel Prize in Economics (technically the The Nobel Memorial Prize in Economic Sciences) and originator of the field of behavioral economics (a.k.a., hottest thing going these days).
 
