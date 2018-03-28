@@ -4,7 +4,7 @@ date: 2018-01-17
 layout: post
 ---
 
-![ ](https://www.dropbox.com/s/8n97d39dzmbrog9/logo-scaledown.jpg?dl=0)
+![ ](https://cdlhealth.com/intransitweb/images/logo-scaledown.png)
 
 Good science + good friends + wanting to do good + good-ish caffeine + good [hard] work + good luck = Scale Down.
 
