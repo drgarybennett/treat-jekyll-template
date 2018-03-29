@@ -12,7 +12,7 @@ categories:
   - obesity
   - presentations
 ---
-<span class="embed-youtube" style="text-align:center; display: block;"></span>
+![ ](https://www.youtube.com/watch?v=xfeei4W4hPE&sns=em)
 
 (In case you&#8217;re looking for something to take your mind off the election, watch this).
 
