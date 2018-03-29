@@ -2,6 +2,7 @@
 
 date: 2018-01-17
 layout: post
+title: Anthem acquires ScaleDown
 ---
 
 ![ ](https://cdlhealth.com/intransitweb/images/logo-scaledown.png)
