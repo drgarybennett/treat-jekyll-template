@@ -1,9 +1,9 @@
 ---
 title: Contact
 ---
-<h1>Contact Me</h1>
+### Contact Me
 	
-
+You can find me on Twitter at [@drgarybennett](https://www.twitter.com/drgarybennett) or email me using the form below.
 
 <form id="contactform" method="POST">
 <!--    <input type="text" name="name" placeholder="Your name">
