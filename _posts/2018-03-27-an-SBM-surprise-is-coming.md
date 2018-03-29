@@ -12,6 +12,6 @@ We have a big surprise coming at this year's [SBM annual meeting](http://www.sbm
 
 Stumped? Just hang around after the awards ceremony on Thursday evening (immediately following my talk). 
 
-Hate guessing games? Read my editorial in this month's edition of Outlook. 
+Hate guessing games? Read my editorial in this month's edition of [Outlook](https://www.sbm.org/publications/outlook). 
 
 See you in NOLA!
