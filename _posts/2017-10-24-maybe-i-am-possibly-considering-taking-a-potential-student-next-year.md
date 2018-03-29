@@ -9,7 +9,7 @@ permalink: /2017/10/24/maybe-i-am-possibly-considering-taking-a-potential-studen
 categories:
   - research
 ---
-! [ ](https://images.unsplash.com/photo-1502298411556-0b02524812cb?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=kyle-glenn-336141-unsplash.jpg&s=1802d8b3dd6df9ddb547073aacf779ed)
+![ ](https://images.unsplash.com/photo-1502298411556-0b02524812cb?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=kyle-glenn-336141-unsplash.jpg&s=1802d8b3dd6df9ddb547073aacf779ed)
 
 Thanks for all of the messages asking whether I will be taking a student next year.
 
