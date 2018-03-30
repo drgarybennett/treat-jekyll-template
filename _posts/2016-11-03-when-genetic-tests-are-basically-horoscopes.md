@@ -10,7 +10,7 @@ categories:
   - cool tech
   - digital health
 ---
-<img src="http://s3.amazonaws.com/estock/fspid8/308800/neon-burbank-tolucalake-308800-o.jpg" width="1525" height="1824" alt="" class="alignnone size-large" />
+![ ](https://images.unsplash.com/photo-1515942661900-94b3d1972591?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=josh-rangel-513683-unsplash.jpg&s=e7e833db3a37747de37170975c3f078a)
 
 Fantastic piece [in today&#8217;s Inside Stat](https://www.statnews.com/2016/11/03/genetic-testing-fitness-nutrition/).
 
