@@ -7,7 +7,7 @@ layout: post
 
 We have a big surprise coming at this year's [SBM annual meeting](http://www.sbm.org/meetings/2018). Here are some hints:
 * Rhymes with a great Stephen King book.
-* Think of a fantastic former-Duke basketball player who startwed for the Sixers.
+* Think of a fantastic former-Duke basketball player who started for the Sixers.
 * One of things that's made Apple, Xerox, and Klennex famous. 
 
 Stumped? Just hang around after the awards ceremony on Thursday evening (immediately following my talk). 
