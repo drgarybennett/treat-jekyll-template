@@ -1,5 +1,5 @@
 ---
-title: My #SBMmoves
+title: My SBM Moves
 layout: post
 date: 2018-04-02
 ---
