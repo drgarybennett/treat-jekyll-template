@@ -4,7 +4,7 @@ title: About
 ### About Gary
 <img src="/images/151209_bennett005.jpg?raw=true" alt=" " style="max-width:100%;">
 	
-Gary G. Bennett, Ph.D. is the Bishop-MacDermott Family Professor of Psychology &amp; Neuroscience, Global Health and Medicine at Duke University. He directs the [Duke Global Digital Health Science Center](http:www.dukedigitalhealth.org). Dr. Bennett is also President of the <a href="http://www.sbm.org" rel="nofollow">Society of Behavioral Medicine</a>.
+Gary G. Bennett, Ph.D. is the Bishop-MacDermott Family Professor of Psychology &amp; Neuroscience, Global Health and Medicine at Duke University. He directs the [Duke Global Digital Health Science Center](http:www.dukedigitalhealth.org). Dr. Bennett is also Immediate Past President of the <a href="http://www.sbm.org" rel="nofollow">Society of Behavioral Medicine</a>.
 
 Dr. Bennett’s research program designs, tests, and disseminates digital obesity treatments. He is especially interested in integrating digital health treatments into the primary care setting. Dr. Bennett developed the interactive obesity treatment approach (iOTA); his recent work demonstrates the effectiveness of coach-led, digital obesity treatments. He has authored more than 125 scientific papers and his research program has been continuously supported by the National Institutes of Health. 
 
