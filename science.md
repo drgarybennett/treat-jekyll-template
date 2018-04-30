@@ -23,13 +23,24 @@ The inability to reliably produce clinically meaningful weight loss among medica
 ## Embedding digital treatments in primary care
 
 Nationally, few low-cost, evidence-based obesity treatments are available in the primary care setting. Although provider-delivered lifestyle counseling can be helpful, it occurs infrequently. Capacity and reimbursement issues constrain the widespread availability of primary care-based dietitian counseling services. Compounding the challenge, there has been little uptake of evidence-based behavioral weight management interventions in primary care. Indeed, very few studies have investigated the efficacy of behavioral weight management interventions in the primary care setting; even fewer of these studies have included sociodemographically diverse patient populations. In a series of efficacy and pragmatic effectiveness trials, we have demonstrated the effectiveness of primary care-based obesity treatments in a range of challenged care delivery settings. 
-* Bennett, G.G., Warner, E., Glasgow, R., Askew, S., Goldman, J., Ritzwoller, D., Emmons, K., Rosner, B., Colditz, G. (2012). Obesity treatment for socioeconomically disadvantaged patients in primary care practice. Archives of Internal Medicine, 172(7):565-74. PMCID: PMC3609656
-* Bennett, G.G., Herring, S., Puleo, E., Stein, E.K., Emmons, K.M., Gillman, M.W. (2010). Web-based weight loss in primary care: a randomized controlled trial. Obesity, 18(2):308-13. PMCID: PMC3710670
-* Bennett, G.G., Steinberg, D.M., Pagoto, S.L. (2015). Will obesity treatment reimbursement benefit those at highest risk? American Journal of Medicine. PMCID: PMC Journal - In Process  
+
+* Bennett, G.G., Warner, E., Glasgow, R., Askew, S., Goldman, J., Ritzwoller, D., Emmons, K., Rosner, B., Colditz, G. (2012). [Obesity treatment for socioeconomically disadvantaged patients in primary care practice.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1134848) Archives of Internal Medicine, 172(7):565-74. PMCID: PMC3609656
+
+* Bennett, G.G., Herring, S., Puleo, E., Stein, E.K., Emmons, K.M., Gillman, M.W. (2010). [Web-based weight loss in primary care: a randomized controlled trial.](https://www.ncbi.nlm.nih.gov/pubmed/19696764) Obesity, 18(2):308-13. PMCID: PMC3710670
+
+* Bennett, G.G., Steinberg, D.M., Pagoto, S.L. (2015). [Will obesity treatment reimbursement benefit those at highest risk?](https://www.amjmed.com/article/S0002-9343(15)00101-1/abstract) American Journal of Medicine. 2015 Jul 1;128(7):670-1.
+
+
+## Delivering comprehensive obesity care
+
 Comprehensive obesity care includes more than weight loss treatment. Up to half of obese patients are uninterested in weight loss. Clinical practice guidelines recommend that these patients avoid weight gain prevention, but evidence-based treatment solutions are not available in the primary care setting. We provided the first evidence of an efficacious weight gain prevention treatment approach for the primary care setting.   
+
 * Bennett, G.G., Foley, P.B., Levine, E., Whiteley, J., Askew, S., Steinberg, D., Batch, B., Greaney, M., Miranda, H., Wroth, T., Holder, M., Emmons, K.M., Puleo, E. (2013). Behavioral treatment for weight gain prevention among black women in primary care practice: a randomized clinical trial. JAMA Internal Medicine, 173(19):1770-7. PMCID: PMC3972760
+
 * Steinberg, D.M., Levine, E.L., Lane, I., Askew, S., Foley, P.B., Puleo, E., Bennett, G.G. (2014). Adherence to self-monitoring via interactive voice response technology in an eHealth intervention targeting weight gain prevention among Black women: randomized controlled trial. J Med Internet Res, 16(4):e114. PMCID: PMC4019773
+
 * Steinberg, D.M., Askew, S., Lanpher, M.G., Foley, P.B., Levine, E.L., Bennett, G.G. (2014). The effect of a "maintain, don't gain" approach to weight management on depression among black women: results from a randomized controlled trial. Am J Public Health, 104(9):1766-73. PMCID: PMC4151935
+
 * Foley, P., Levine, E., Askew, S., Puleo, E., Whiteley, J., Batch, B., Heil, D., Dix, D., Lett, V., Lanpher, M., Miller, J., Emmons, K., Bennett, G.G. (2012). Weight gain prevention among black women in the rural community health center setting: the Shape Program. BMC Public Health, 12:305. PMCID: PMC3439671
 
 
