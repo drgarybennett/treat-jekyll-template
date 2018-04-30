@@ -35,19 +35,23 @@ Nationally, few low-cost, evidence-based obesity treatments are available in the
 
 Comprehensive obesity care includes more than weight loss treatment. Up to half of obese patients are uninterested in weight loss. Clinical practice guidelines recommend that these patients avoid weight gain prevention, but evidence-based treatment solutions are not available in the primary care setting. We provided the first evidence of an efficacious weight gain prevention treatment approach for the primary care setting.   
 
-* Bennett, G.G., Foley, P.B., Levine, E., Whiteley, J., Askew, S., Steinberg, D., Batch, B., Greaney, M., Miranda, H., Wroth, T., Holder, M., Emmons, K.M., Puleo, E. (2013). Behavioral treatment for weight gain prevention among black women in primary care practice: a randomized clinical trial. JAMA Internal Medicine, 173(19):1770-7. PMCID: PMC3972760
+* Bennett, G.G., Foley, P.B., Levine, E., Whiteley, J., Askew, S., Steinberg, D., Batch, B., Greaney, M., Miranda, H., Wroth, T., Holder, M., Emmons, K.M., Puleo, E. (2013). [Behavioral treatment for weight gain prevention among black women in primary care practice: a randomized clinical trial.](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1731966) JAMA Internal Medicine, 173(19):1770-7. PMCID: PMC3972760
 
-* Steinberg, D.M., Levine, E.L., Lane, I., Askew, S., Foley, P.B., Puleo, E., Bennett, G.G. (2014). Adherence to self-monitoring via interactive voice response technology in an eHealth intervention targeting weight gain prevention among Black women: randomized controlled trial. J Med Internet Res, 16(4):e114. PMCID: PMC4019773
+* Steinberg, D.M., Levine, E.L., Lane, I., Askew, S., Foley, P.B., Puleo, E., Bennett, G.G. (2014). [Adherence to self-monitoring via interactive voice response technology in an eHealth intervention targeting weight gain prevention among Black women: randomized controlled trial.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4019773/) J Med Internet Res, 16(4):e114. PMCID: PMC4019773
 
 * Steinberg, D.M., Askew, S., Lanpher, M.G., Foley, P.B., Levine, E.L., Bennett, G.G. (2014). The effect of a "maintain, don't gain" approach to weight management on depression among black women: results from a randomized controlled trial. Am J Public Health, 104(9):1766-73. PMCID: PMC4151935
 
 * Foley, P., Levine, E., Askew, S., Puleo, E., Whiteley, J., Batch, B., Heil, D., Dix, D., Lett, V., Lanpher, M., Miller, J., Emmons, K., Bennett, G.G. (2012). Weight gain prevention among black women in the rural community health center setting: the Shape Program. BMC Public Health, 12:305. PMCID: PMC3439671
 
 
-## Using digital treatments to reach the "hard to reach"
+## Using digital treatments to improve population health 
 
 With the increasing penetration of mobile devices, we’ve seen great shifts in the digital divide. Populations that were historically disconnected now utilize mobile devices in ways that sometime exceed their more advantaged counterparts. This has raised the exciting possibility of utilizing digital health approaches to contend with health disparities. We have been leaders in advancing discussions about how to leverage the digital revolution to improve population health.
-* Bennett, G.G., Steinberg, D.M., Stoute, C., Lanpher, M., Lane, I., Askew, S., Foley, P.B., Baskin, M.L. (2014). Electronic health (eHealth) interventions for weight management among racial/ethnic minority adults: a systematic review. Obesity Reviews, 15 Suppl 4:146-58. PMCID: PMC Journal - In Process
-* Pagoto, S., Bennett, G.G. (2013). How behavioral science can advance digital health. Translational Behavioral Medicine, 3(3):271–276. PMCID: PMC3771019
-* Bennett, G.G. (2012). Connecting eHealth with 2-1-1 to reduce health disparities. American Journal of Preventive Medicine, 43(6 Suppl 5):S509-11. PMCID: PMC Journal - In Process
-* Bennett, G.G., Glasgow, R.E. (2009). The delivery of public health interventions via the Internet: actualizing their potential. Annual Review of Public Health, 30:273-92. PMCID: PMC Journal - In Process
+
+* Bennett, G.G., Steinberg, D.M., Stoute, C., Lanpher, M., Lane, I., Askew, S., Foley, P.B., Baskin, M.L. (2014). [Electronic health (eHealth) interventions for weight management among racial/ethnic minority adults: a systematic review.]https://onlinelibrary.wiley.com/doi/full/10.1111/obr.12218) Obesity Reviews, 15 Suppl 4:146-58. 
+
+* Pagoto, S., Bennett, G.G. (2013). [How behavioral science can advance digital health.](https://www.ncbi.nlm.nih.gov/pubmed/24073178) Translational Behavioral Medicine, 3(3):271–276. PMCID: PMC3771019
+
+* Bennett, G.G. (2012). [Connecting eHealth with 2-1-1 to reduce health disparities.](https://www.ncbi.nlm.nih.gov/pubmed/23157773) American Journal of Preventive Medicine, 43(6 Suppl 5):S509-11. 
+
+* Bennett, G.G., Glasgow, R.E. (2009). [The delivery of public health interventions via the Internet: actualizing their potential.](https://www.ncbi.nlm.nih.gov/pubmed/19296777) Annual Review of Public Health, 30:273-92. 
