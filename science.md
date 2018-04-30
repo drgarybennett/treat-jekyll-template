@@ -48,7 +48,7 @@ Comprehensive obesity care includes more than weight loss treatment. Up to half 
 
 With the increasing penetration of mobile devices, we’ve seen great shifts in the digital divide. Populations that were historically disconnected now utilize mobile devices in ways that sometime exceed their more advantaged counterparts. This has raised the exciting possibility of utilizing digital health approaches to contend with health disparities. We have been leaders in advancing discussions about how to leverage the digital revolution to improve population health.
 
-* Bennett, G.G., Steinberg, D.M., Stoute, C., Lanpher, M., Lane, I., Askew, S., Foley, P.B., Baskin, M.L. (2014). [Electronic health (eHealth) interventions for weight management among racial/ethnic minority adults: a systematic review.]https://onlinelibrary.wiley.com/doi/full/10.1111/obr.12218) Obesity Reviews, 15 Suppl 4:146-58. 
+* Bennett, G.G., Steinberg, D.M., Stoute, C., Lanpher, M., Lane, I., Askew, S., Foley, P.B., Baskin, M.L. (2014). [Electronic health (eHealth) interventions for weight management among racial/ethnic minority adults: a systematic review.](https://onlinelibrary.wiley.com/doi/full/10.1111/obr.12218) Obesity Reviews, 15 Suppl 4:146-58. 
 
 * Pagoto, S., Bennett, G.G. (2013). [How behavioral science can advance digital health.](https://www.ncbi.nlm.nih.gov/pubmed/24073178) Translational Behavioral Medicine, 3(3):271–276. PMCID: PMC3771019
 
