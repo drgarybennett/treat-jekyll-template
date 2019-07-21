@@ -2,7 +2,8 @@
 title: About
 ---
 ### About Gary
-<img src="/images/051818_bennett001.jpg" alt="Image of Gary Bennett" align="left" style="padding:5px;">
+
+<img src="/images/051818_bennett001.jpg" alt="Image of Gary Bennett" align="left" hspace="20" vspace="20">
 	
 Gary G. Bennett, Ph.D. is the Bishop-MacDermott Family Professor of Psychology &amp; Neuroscience, Global Health and Medicine and [Vice Provost for Undergraduate Education](http://undergraduate.duke.edu) at Duke University. As vice provost, Dr. Bennett drives Duke's undergraduate education strategy, leads curricular and co-curricular programs, and serves as the university's primary spokesperson for undergraduate concerns.  He directs Duke's [Office of Undergraduate Education](http://undergraduate.duke.edu), which is comprised of 12 units (including academic advising, academic support, nationally  competitive scholarships, merit scholar programs,  financial aid, study abroad, as well as vibrant co-curricular programs like Duke Engage and Duke Immerse) that enrich Duke's undergraduate academic experience.   Dr. Bennett is the founding director of the [Duke Global Digital Health Science Center](http://www.dukedigitalhealth.org) and the Immediate Past President of the <a href="http://www.sbm.org" rel="nofollow">Society of Behavioral Medicine</a>.
 
