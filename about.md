@@ -2,7 +2,7 @@
 title: About
 ---
 ### About Gary
-<img src="/images/151209_bennett005.jpg?raw=true" alt=" " style="max-width:100%;">
+<img src="/images/051818_bennett001.jpg?raw=true" alt=" " style="max-width:100%;">
 	
 Gary G. Bennett, Ph.D. is the Bishop-MacDermott Family Professor of Psychology &amp; Neuroscience, Global Health and Medicine and [Vice Provost for Undergraduate Education](http://undergraduate.duke.edu) at Duke University. As vice provost, Dr. Bennett drives Duke's undergraduate education strategy, leads curricular and co-curricular programs, and serves as the university's primary spokesperson for undergraduate concerns.  He directs Duke's [Office of Undergraduate Education](http://undergraduate.duke.edu), which is comprised of 12 units (including academic advising, academic support, nationally  competitive scholarships, merit scholar programs,  financial aid, study abroad, as well as vibrant co-curricular programs like Duke Engage and Duke Immerse) that enrich Duke's undergraduate academic experience.   Dr. Bennett is the founding director of the [Duke Global Digital Health Science Center](http://www.dukedigitalhealth.org) and the Immediate Past President of the <a href="http://www.sbm.org" rel="nofollow">Society of Behavioral Medicine</a>.
 
@@ -16,3 +16,5 @@ Dr. Bennett also co-founded three digital health startups. Crimson Health Soluti
 At Duke, Dr. Bennett is a member of Duke’s Bass Society of Fellows, is the founding director of Duke’s undergraduate major in global health, has served on committees to examine Duke's undergraduate curriculum and develop the university's strategic plan. His students' course ratings have repeatedly placed Dr. Bennett in the top 5% of Duke’s undergraduate instructors.
 
 Prior to joining Duke in 2009, Dr. Bennett served on the faculties of the Harvard School of Public Health and the Dana-Farber Cancer Institute. Dr. Bennett earned a bachelor's degree at Morehouse College, a PhD in clinical health psychology at Duke University, and completed postdoctoral studies in social epidemiology at the Harvard School of Public Health.
+
+<img src="/images/151209_bennett005.jpg?raw=true" alt=" " style="max-width:100%;">
