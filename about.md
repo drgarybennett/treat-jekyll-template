@@ -11,6 +11,8 @@ Dr. Bennett’s research program designs, tests, and disseminates digital obesit
 
 Dr. Bennett’s research has been featured in the New York Times, NPR, Time, CBS, ABC, NBC, Fox News, and many other media outlets. Dr. Bennett has served on numerous NIH panels, editorial boards, guidelines committees, and advises several health care, and health technology organizations. Bennett was a member of the American Psychological Association’s obesity treatment guidelines panel and has worked with committees at Girl Trek, the Institute of Medicine, American Heart Association, and American Council on Exercise to reduce Americans’ high rates of obesity and physical inactivity. 
 
+<img src="/images/151209_bennett005.jpg" alt="Image of Gary Bennett" align="left" hspace="20" vspace="20">
+
 Dr. Bennett also co-founded three digital health startups. Crimson Health Solutions developed digital interventions for disease management companies. Crimson was acquired by Health Dialog in 2007. In 2014, he co-founded Scale Down, a digital obesity treatment startup based on the science of daily self-weighing. Scale Down was acquired by Anthem in 2017. 
 	
 At Duke, Dr. Bennett is a member of Duke’s Bass Society of Fellows, is the founding director of Duke’s undergraduate major in global health, has served on committees to examine Duke's undergraduate curriculum and develop the university's strategic plan. His students' course ratings have repeatedly placed Dr. Bennett in the top 5% of Duke’s undergraduate instructors.
